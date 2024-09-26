@@ -1,0 +1,1 @@
+stack runhaskell Set1Test.hs
